@@ -1,3 +1,1 @@
-Hello Julien,
-
 Les fichier original et output se trouvent directement dans /bin
